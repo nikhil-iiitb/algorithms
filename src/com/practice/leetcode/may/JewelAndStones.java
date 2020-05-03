@@ -60,8 +60,8 @@ public class JewelAndStones {
 	/*
 	 * This is the bit manipulation approach. 
 	 * It doesn't need auxiliary memory.  
-	 * We set the bits 
-	 * 
+	 * We set the bits in idxBitSet variable
+	 * by left shift operation.
 	 */
 	public int numJewelsInStones(String J, String S) {
 		int lBitSet = 0;
