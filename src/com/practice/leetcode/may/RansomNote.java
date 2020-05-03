@@ -18,6 +18,28 @@ import java.util.Map;
 public class RansomNote {
 
 	// The method name can be changed as per the API in the question.
+	boolean canConstructs(String ransomNote, String magazine) {
+		
+		int[] mArray = new int[26]; // Only lowercase letters allowed.
+		
+		int nR = ransomNote.length();
+		int nM = magazine.length();
+		
+		for(int i=0; i < nM; i++) {
+			mArray[magazine.charAt(i) - 'a']++;
+		}
+		
+		for(int i=0; i < nR; i++) {
+			if(mArray[ransomNote.charAt(i) - 'a'] == 0) {
+				return false;
+			}
+			mArray[ransomNote.charAt(i) - 'a']--;
+		}
+		
+		return true;
+	}
+	
+	//Hashing approach
 	boolean canConstruct(String ransomNote, String magazine) {
 		int nR = ransomNote.length();
 		int nM = magazine.length();
