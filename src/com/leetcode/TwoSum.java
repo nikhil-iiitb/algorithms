@@ -1,7 +1,16 @@
 package com.leetcode;
 
+//
+//  Two Sum
+//  Leetcode
+//
+//  Created by Nikhil Garg on 24/01/2021.
+//  Copyright © 2021 Personal. All rights reserved.
+//
+
 import java.util.HashMap;
 import java.util.Map;
+
 
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {

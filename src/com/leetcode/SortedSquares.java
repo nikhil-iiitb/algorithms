@@ -1,5 +1,13 @@
 package com.leetcode;
 
+//
+//  Sorted Squares
+//  Leetcode
+//
+//  Created by Nikhil Garg on 04/02/2021.
+//  Copyright © 2021 Personal. All rights reserved.
+//
+
 public class SortedSquares {
 
     public int[] sortedSquares(int[] nums) {

@@ -1,5 +1,13 @@
 package com.leetcode;
 
+//
+//  Excel Sheet Column Number
+//  Leetcode
+//
+//  Created by Nikhil Garg on 30/01/2021.
+//  Copyright © 2021 Personal. All rights reserved.
+//
+
 public class TitleToNum {
     public static int titleToNumber(String s) {
         int l = s.length();

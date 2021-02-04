@@ -1,5 +1,14 @@
 package com.leetcode;
 
+
+//
+//  Reverse Linked List
+//  Leetcode
+//
+//  Created by Nikhil Garg on 05/02/2021.
+//  Copyright © 2021 Personal. All rights reserved.
+//
+
 //Definition for singly-linked list.
  class ListNode {
       int val;

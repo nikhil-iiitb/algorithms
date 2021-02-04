@@ -1,4 +1,12 @@
 package com.leetcode;
+//
+//  Median of Two sorted arrays
+//  Leetcode
+//
+//  Created by Nikhil Garg on 30/01/2021.
+//  Copyright © 2021 Personal. All rights reserved.
+//
+
 
 public class ArrayMedian {
 

@@ -1,5 +1,13 @@
 package com.leetcode;
 
+//
+//  String to Integer (atoi)
+//  Leetcode
+//
+//  Created by Nikhil Garg on 02/02/2021.
+//  Copyright © 2021 Personal. All rights reserved.
+//
+
 public class MyATOI {
 
     public int myAtoi(String s) {

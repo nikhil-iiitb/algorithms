@@ -1,5 +1,13 @@
 package com.leetcode;
 
+//
+//  Valid Parentheses
+//  Leetcode
+//
+//  Created by Nikhil Garg on 02/02/2021.
+//  Copyright © 2021 Personal. All rights reserved.
+//
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
