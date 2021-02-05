@@ -7,3 +7,4 @@ Algorithm practice from leetcode &amp; other practice problems
 5. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 6. Sorted Squares - https://leetcode.com/problems/squares-of-a-sorted-array/
 7. Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/
+8. Binary Tree Inorder Traversal - https://leetcode.com/problems/binary-tree-inorder-traversal/
