@@ -10,3 +10,4 @@ Algorithm practice from leetcode &amp; other practice problems
 8. Binary Tree Inorder Traversal - https://leetcode.com/problems/binary-tree-inorder-traversal/
 9. Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/
 10. Intersection of Two Linked Lists - https://leetcode.com/problems/intersection-of-two-linked-lists/
+11. Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
