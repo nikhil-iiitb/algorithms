@@ -12,3 +12,4 @@ Algorithm practice from leetcode &amp; other practice problems
 10. Intersection of Two Linked Lists - https://leetcode.com/problems/intersection-of-two-linked-lists/
 11. Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 12. Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+13. Merge k Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
