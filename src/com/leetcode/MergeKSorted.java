@@ -35,6 +35,7 @@ public class MergeKSorted {
 
         PriorityQueue<ListNode> pQ = new PriorityQueue<>(new CustomComparator());
 
+
         for(ListNode l : lists){
             if(l != null){
                 pQ.offer(l);

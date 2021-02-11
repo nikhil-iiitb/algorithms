@@ -10,6 +10,7 @@ package com.leetcode;
 public class PeakElement {
 
     public int findPeakElement(int[] nums) {
+
         if(null == nums || (nums.length-1==0))
             return 0;
 
