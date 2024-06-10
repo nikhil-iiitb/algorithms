@@ -26,12 +26,14 @@ public class PasswordStrength {
 				continue;
 			}
 
-			for(char c : str.toCharArray())
+			for(char c : str.toCharArray()) {
+
+			}
 
 		}
 
 
-		return resultArr;
+		return resultArr.toArray(new String[0]);
 	}
 
 

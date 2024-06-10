@@ -15,7 +15,7 @@ public class TreeNodeUtil {
 		if(null == tN){
 			return 0;
 		}
-
+		return 0;
 
 	}
 }
